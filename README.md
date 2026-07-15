@@ -64,16 +64,10 @@ My contribution focused on:
 - API and manual testing
 - Bug investigation and UI improvements
 
-[View GrowFriend Repository](你的GrowFriend仓库链接)
+[View GrowFriend Repository](https://github.com/UOA-CS732-S1-2026/group-project-default-qts.git)
 
 ---
 
-### 🍷 Wine Quality Data Mining
-
-A Python data mining project comparing logistic regression,
-Naive Bayes and k-NN models on the UCI white wine quality dataset.
-
-[View Project](你的项目链接)
 
 ## 🤝 Connect With Me
 
