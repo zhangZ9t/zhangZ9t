@@ -71,4 +71,4 @@ My contribution focused on:
 
 ## 🤝 Connect With Me
 
-[LinkedIn](你的LinkedIn链接)
+[LinkedIn](https://www.linkedin.com/in/tao-zhang/)
